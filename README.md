@@ -18,3 +18,5 @@ Below are the steps you need to do to get started:
 1. Get familiar with the [Fundamentals](./Documentation/Architecture/fundamentals.md)
 1. Learn what [development tools](./Documentation/Contribution/development_environment.md) to use
 1. Follow the [getting started](./Documentation/Contribution/getting_started.md)
+
+Somthing more
